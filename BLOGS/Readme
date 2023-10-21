@@ -1,0 +1,5 @@
+// This project is a simple Blog website to create blogs and desplay all blogs.
+
+// run this by
+// #npm run server on mongodb directory &&
+// #npm run start on client directory
